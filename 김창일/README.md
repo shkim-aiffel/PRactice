@@ -1,4 +1,5 @@
 ### Modified !!!!
+## 재수정 
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김성훈 
@@ -9,7 +10,8 @@
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-        - <img width="286" height="448" alt="image" src="https://github.com/user-attachments/assets/4aa4adab-1324-4b8a-8091-98285c4d5ad6" />
+        - <img width="409" height="233" alt="image" src="https://github.com/user-attachments/assets/130bb1fd-3b25-4497-8fb2-637fac23ee79" />
+
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
