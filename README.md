@@ -1,6 +1,7 @@
 ### Pull Request를 실습하기 위한 Repository(이하 Repo)입니다.
 
 #### 배정받은 폴더에 본인이 작성한 REAEME파일을 업로드합니다.
+<img width="940" height="575" alt="image" src="https://github.com/user-attachments/assets/821fd08d-56bf-49d6-a21a-e3a7d49aed9b" />
 
 1. 본 Repo를 본인의 GitHub에 Fork합니다.
 2. 본인의 로컬에 Clone합니다.
