@@ -1,3 +1,6 @@
+<img width="235" height="178" alt="{3CD43146-DA56-4638-A2EC-3B119D210CAF}" src="https://github.com/user-attachments/assets/2843c750-d46b-4835-ad4c-6fb828107aab" />
+
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
