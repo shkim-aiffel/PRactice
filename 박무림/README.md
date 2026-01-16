@@ -2,8 +2,9 @@ PR Practice update
 
 
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 
+- 리뷰어 :박무림
+<img width="346" height="473" alt="image" src="https://github.com/user-attachments/assets/80dfbc9e-c118-4411-8baf-c18c333bbbe5" />
 
 
 # PRT(Peer Review Template)
