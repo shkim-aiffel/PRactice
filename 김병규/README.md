@@ -1,7 +1,12 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김성훈 퍼실님
-- 리뷰어 : 김병규
-(두번째 작업)
+- 리뷰어 : 김병규 (세번째 작업)
+
+'''
+세번째 수정 작업
+'''
+<img width="293" height="153" alt="image" src="https://github.com/user-attachments/assets/20cf6887-b8a1-4841-96c4-c0ff5432736d" />
+
 
 # PRT(Peer Review Template)
 - [V]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
