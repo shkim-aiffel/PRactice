@@ -1,4 +1,4 @@
-<img width="154" height="87" alt="image" src="https://github.com/user-attachments/assets/cab8e1ac-fc19-4888-b869-951b92ccff76" /># AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 고길동
 - 리뷰어 : 박종화
 
