@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 고길동
-- 리뷰어 : 강백호
+- 코더 : 박대건
+- 리뷰어 : 박대건
 
 
 # PRT(Peer Review Template)
@@ -9,6 +9,8 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
 
         ![이미지 첨부](sample_image.png)
+      <img width="157" height="120" alt="image" src="https://github.com/user-attachments/assets/8940aa23-7243-44ab-8c2b-85043ebe7f62" />
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
