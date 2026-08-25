@@ -1,4 +1,7 @@
 ### 기여자 : 노용욱
+<img width="118" height="86" alt="image" src="https://github.com/user-attachments/assets/725c7a33-2978-45e1-a62a-a7575d7a955b" />
+
+
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 
