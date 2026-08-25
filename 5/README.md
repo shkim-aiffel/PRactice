@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : kwon haena
-- 리뷰어 : 권해나
+- 리뷰어 : 권해나 test
 
 
 # PRT(Peer Review Template)
