@@ -1,8 +1,10 @@
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 아수조
 - 리뷰어 : 아수조
 
-![이미지 첨부](sample_image.png)
+
+<img width="464" height="337" alt="슬픈훈" src="https://github.com/user-attachments/assets/28badea6-cedc-4d85-9918-320e131c99e7" />
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
