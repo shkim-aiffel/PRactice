@@ -2,7 +2,7 @@
 <img width="118" height="86" alt="image" src="https://github.com/user-attachments/assets/725c7a33-2978-45e1-a62a-a7575d7a955b" />
 
 [이미지첨부](스크린샷 2026-08-25 오전 10.32.56.png)  
-[이미지첨부](sam_img.png)
+![샘플이미지](sam_img.png)
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 
